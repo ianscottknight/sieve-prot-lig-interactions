@@ -1,0 +1,17 @@
+[project]
+name = "sieve_prot_lig_interactions"
+version = "0.1.0"
+description = "Library for determining and filtering by protein-ligand interactions."
+readme = "README.md"
+authors = [
+    { name = "Ian Scott Knight", email = "isk@alumni.stanford.edu" }
+]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+sieve-prot-lig-interactions = "sieve_prot_lig_interactions:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
