@@ -1,0 +1,17 @@
+# dev environment
+.idea/
+
+# build files
+dist/
+build/
+
+# python cache
+__pycache__/
+*.pyc
+
+# python environment
+.python-version
+.venv/
+venv/
+env/
+
