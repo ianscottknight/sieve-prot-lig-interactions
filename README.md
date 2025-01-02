@@ -1,1 +1,1 @@
-# sieve-prot-lig-interactions
+# mol-interactions
